@@ -1,0 +1,15 @@
+body {
+background-color: white;
+padding-top: 56px;
+}
+/*BG_COLOR*/
+.colum {
+background-color: beige;
+}
+.footer-color {
+background-color: aqua;
+}
+/*TEXT*/
+.text {
+height: 600px;
+}
